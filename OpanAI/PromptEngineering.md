@@ -1,6 +1,8 @@
-# Prompt Engineering : How to be clear and specific when prompting an LLM
+# Prompt Engineering 
+**How to be clear and specific when prompting an LLM
+**
 
-_**Types of Large Learning Models (LLM**)_ :
+### **Types of Large Learning Models (LLM**) :
 
   -> **Base LLM**:
         Predict next word based upon text training data
